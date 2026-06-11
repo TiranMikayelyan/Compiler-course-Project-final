@@ -1,1 +1,1 @@
-<a href="./readme.html">Open HTML file</a>
+[Open Website](https://tiranmikayelyan.github.io/repository-name/)
